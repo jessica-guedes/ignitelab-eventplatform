@@ -46,4 +46,4 @@ Criar a estrutura base da aplicação utilizando ReactJS, Vite e TailwindCSS. Re
 
 ##
 
-<p align ="center">Feito por mim com :hearts: junto com a Rocketseat :rocket: </p>
+<p align ="center">Feito por mim com :purple_heart: junto com a Rocketseat :rocket: </p>
